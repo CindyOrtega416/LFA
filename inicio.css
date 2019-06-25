@@ -1,0 +1,69 @@
+header{
+    background-color: lightsalmon ;
+    background-size: cover;
+    background-clip: border-box;
+    height: 105px;
+    position: static;
+    padding: 5px;
+    font-size: large;
+    font-family: "Century Schoolbook L";
+.container-fluid
+}
+body{
+
+    background-color: white;
+}
+
+.cargar{
+    top: 100px;
+    position: static;
+    text-align: center;
+    height: 40px;
+    padding: 40px;
+
+}
+
+.estados{
+    border-radius: 12px;
+
+    position: relative;
+    text-align: center;
+    padding: 5px;
+    left: 75px;
+
+}
+
+
+.aceptar{
+    border-radius: 22px;
+    position: relative;
+}
+
+.seleccionar{
+    border-radius: 12px;
+    position: relative;
+    right: 45px;
+
+}
+
+.tablaestruc{
+    background-color: white;
+    position: relative;
+    width: 400px;
+    left: 870px;
+    border-color: peachpuff;
+    border-style: solid;
+
+}
+
+.cargar{
+    background-color: peachpuff;
+    padding:40px;
+
+
+}
+
+.cuadrado{
+    padding: 40px;
+    background-color: lightyellow;
+}
